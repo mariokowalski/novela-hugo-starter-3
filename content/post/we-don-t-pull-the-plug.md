@@ -9,3 +9,4 @@ hero: "/images/chuttersnap-xjlshl0hiik-unsplash.jpg"
 draft: true
 
 ---
+Here we have a text for whatever has been to say.
