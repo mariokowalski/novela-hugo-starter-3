@@ -5,7 +5,7 @@ authors:
 title: We don't pull the plug
 excerpt: here the excerpt
 date: 2022-10-11T22:00:00+00:00
-hero: "/images/ladesaule.jpg"
+hero: "/uploads/ladesaule.jpg"
 draft: true
 
 ---
