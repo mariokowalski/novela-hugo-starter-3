@@ -35,7 +35,7 @@ upload_dir: "./uploads"
 public_path: uploads
 front_matter_path: "./uploads"
 use_front_matter_path: true
-file_template: ":filename:"
+file_template: 'uploads/:filename:'
 build:
   preview_env:
   - HUGO_ENV=staging
