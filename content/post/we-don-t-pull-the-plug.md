@@ -1,5 +1,5 @@
 ---
-timeToRead: 0
+timeToRead: 1
 authors:
 - Paul Linssen
 title: We don't pull the plug
