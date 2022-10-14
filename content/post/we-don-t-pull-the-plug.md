@@ -9,3 +9,5 @@ hero: "/neuer.png"
 
 ---
 Here we have a text for whatever has been to say.
+
+This is a racing sofa.
